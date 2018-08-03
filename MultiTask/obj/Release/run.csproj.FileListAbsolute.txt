@@ -1,0 +1,5 @@
+J:\恢复的同步数据\代码\ldcrf.csh\web release\MultiTask\bin\Release\run.exe
+J:\恢复的同步数据\代码\ldcrf.csh\web release\MultiTask\bin\Release\run.pdb
+J:\恢复的同步数据\代码\ldcrf.csh\web release\MultiTask\obj\Release\ResolveAssemblyReference.cache
+J:\恢复的同步数据\代码\ldcrf.csh\web release\MultiTask\obj\Release\run.exe
+J:\恢复的同步数据\代码\ldcrf.csh\web release\MultiTask\obj\Release\run.pdb
